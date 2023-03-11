@@ -1,0 +1,3 @@
+C:/Users/kathe/CLionProjects/Primer-Parcial/cmake-build-debug/CMakeFiles/Primer_Parcial.dir
+C:/Users/kathe/CLionProjects/Primer-Parcial/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/kathe/CLionProjects/Primer-Parcial/cmake-build-debug/CMakeFiles/rebuild_cache.dir
